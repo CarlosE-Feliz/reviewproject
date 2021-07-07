@@ -1,46 +1,5 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# FCC Test Suite Template
 
-# Review your project from trials!
+**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
 
-Reviewing my code
-
-
-## Built With
-
-- HTML
-- CSS
-- Git
-
-## Getting Started
-
-To get a local copy up and running follow these simple example steps.
-
-
-### Setup
-**Step 1 - create a folder in your local pc** <br>
-**Step 2 - cd in to the new folder from your terminal**<br>
-**Step 3 - type 'git clone https://github.com/xJokeer/reviewproject.git'**<br>
-**Step 4 - open the 'html' file in your web brawser**
-
-## Authors
-
-👤 **Carlos Feliz**
-
-- GitHub: [@xJokeer](https://github.com/xJokeer)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/xJokeer/reviewproject/issues).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-- Inspiration by microverse
-
-## 📝 License
-
-This project is [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licensed.
+You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
