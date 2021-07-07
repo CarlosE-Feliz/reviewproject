@@ -1,13 +1,12 @@
-html,
-body {
+  html,
+  body {
   min-width: 290px;
   color: #4d4e53;
   background-color: #ffffff;
   font-family: 'Open Sans', Arial, sans-serif;
   line-height: 1.5;
 }
-
-#navbar {
+  #navbar {
   position: fixed;
   min-width: 290px;
   top: 0px;
@@ -20,18 +19,18 @@ body {
 }
 
 
-#main-doc header {
+  #main-doc header {
   text-align: left;
   margin: 0px;
 }
-#navbar ul {
+  #navbar ul {
   height: 88%;
   padding: 0;
   overflow-y: auto;
   overflow-x: hidden;
 }
 
-#navbar li {
+  #navbar li {
   color: #4d4e53;
   border-top: 1px solid;
   list-style: none;
@@ -39,7 +38,7 @@ body {
   width: 100%;
 }
 
-#navbar a {
+  #navbar a {
   display: block;
   padding: 10px 30px;
   color: #4d4e53;
@@ -47,19 +46,19 @@ body {
   cursor: pointer;
 }
 
-#main-doc {
+  #main-doc {
   position: absolute;
   margin-left: 310px;
   padding: 20px;
   margin-bottom: 110px;
 }
 
-section article {
+  section article {
   color: #4d4e53;
   margin: 15px;
   font-size: 0.96em;
 }
 
-section li {
+  section li {
   margin: 15px 0px 0px 20px;
 }
